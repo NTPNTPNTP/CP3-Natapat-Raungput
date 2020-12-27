@@ -1,4 +1,3 @@
-CSV
-name,department,birthday month
-John Smith,Accounting,November
-Erica Meyers,IT,March
+name, department, birthday month
+John Smith, Accounting, November
+Erica Meyers, IT, March
